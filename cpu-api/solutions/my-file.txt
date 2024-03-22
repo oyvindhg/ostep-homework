@@ -1,0 +1,6 @@
+Hello world
+Hello from child
+Hello from child after sleep
+Hello world
+Hello from parent
+Hello from parent afer wait
